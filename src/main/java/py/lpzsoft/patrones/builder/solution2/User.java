@@ -2,6 +2,7 @@ package py.lpzsoft.patrones.builder.solution2;
 
 import java.util.ArrayList;
 import java.util.List;
+
 import py.lpzsoft.patrones.builder.solution2.UserBuilders.Id;
 import py.lpzsoft.patrones.builder.solution2.UserBuilders.Name;
 import py.lpzsoft.patrones.builder.solution2.UserBuilders.Nick;
